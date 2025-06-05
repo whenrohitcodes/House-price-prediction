@@ -1,7 +1,7 @@
 **House Price Prediction**
 
 Technologies: Python, Pandas, scikit-learn, XGBoost, LightGBM
-Dataset Used: train.csv (Likely from Kaggle's House Prices dataset)
+Dataset: kaggle
 
 Project Summary:
 
